@@ -2,6 +2,10 @@ simple-mrbs-app
 ======
 A simple app which displays the content of [simple-mrbs-output](https://github.com/repat/simple-mrbs-output "simple-mrbs-output on github.com") in an Android app in landscape mode. The screensaver is disabled and the titlebar removed. It could be used to display the room occupation on a tablet or an ebook-reader which runs android, e.g.[Nook](https://en.wikipedia.org/wiki/Barnes_%26_Noble_Nook "nook on wikipedia").
 
+## Screenshot
+![Screenshot simple-mrbs-app](screenshot-simple-mrbs-output.png)
+*Screenshot of a customized German version*
+
 ## Howto
 * Set the String `SIMPLE_MRBS_OUTPUT_URL` in `MainActivity.java`
 
